@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block content %}
+     <h1>Выберите срок, на который хотите посмотреть прогноз погоды</h1>
+     <form action="" method="post" name="simple" enctype="multipart/form-data">
+         {{form.hidden_tag()}}
+         <p>
+             {{form.certification()}}
+         </p>
+        <p>{{ form.submit }}</p>
+     </form>
+{% endblock %}

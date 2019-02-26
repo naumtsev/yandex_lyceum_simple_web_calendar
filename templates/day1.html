@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1> {{text}}</h1>
+
+   {% for day in days%}
+        <div>
+            <h2> {{day}} </h2>
+            {% for hour in days[day]['hours'] %}
+                <h4>{{hour}}, {{days[day]['hours'][hour]['temperature']}},  {{days[day]['hours'][hour]['description']}}</h4>
+
+            {% endfor %}
+            <hr/>
+        </div>
+    {% endfor %}
+
+{% endblock %}

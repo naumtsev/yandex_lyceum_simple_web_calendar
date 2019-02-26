@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1> Прогноз погоды на месяц</h1>
+    <table>
+           {% for week in days%}
+                <tr>
+                    {% for day in week%}
+                        <th>
+                            <h1>{{day[1]}}</h1>
+                            <h5>{{day[0]}}</h5>
+                            <br/>
+
+
+                        </th>
+                    {% endfor %}
+                </tr>
+            {% endfor %}
+        </div>
+    </table>
+{% endblock %}

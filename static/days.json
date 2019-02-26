@@ -1,0 +1,1017 @@
+{
+    "1.01.2019": {
+    "simple_description": "Солнечно, небо ясное",
+    "average_temperature": "+13",
+    "hours": {
+      "12:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "14:00": {
+        "description": "небольшие облака",
+        "temperature": "+13"
+      },
+      "16:00": {
+        "description": "дождь",
+        "temperature": "+11"
+      },
+      "18:00": {
+        "description": "солнечно",
+        "temperature": "+20"
+      },
+      "20:00": {
+        "description": "солнечно",
+        "temperature": "+11"
+      },
+      "22:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "24:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      }
+    }
+  },
+    "2.01.2019": {
+    "simple_description": "Солнечно, небо ясное",
+    "average_temperature": "+12",
+    "hours": {
+      "12:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "14:00": {
+        "description": "небольшие облака",
+        "temperature": "+13"
+      },
+      "16:00": {
+        "description": "дождь",
+        "temperature": "+11"
+      },
+      "18:00": {
+        "description": "солнечно",
+        "temperature": "+20"
+      },
+      "20:00": {
+        "description": "солнечно",
+        "temperature": "+11"
+      },
+      "22:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "24:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      }
+    }
+  },
+    "3.01.2019": {
+    "simple_description": "Солнечно, небо ясное",
+    "average_temperature": "+4",
+    "hours": {
+      "12:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "14:00": {
+        "description": "небольшие облака",
+        "temperature": "+13"
+      },
+      "16:00": {
+        "description": "дождь",
+        "temperature": "+11"
+      },
+      "18:00": {
+        "description": "солнечно",
+        "temperature": "+20"
+      },
+      "20:00": {
+        "description": "солнечно",
+        "temperature": "+11"
+      },
+      "22:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "24:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      }
+    }
+  },
+    "4.01.2019": {
+    "simple_description": "Солнечно, небо ясное",
+    "average_temperature": "+17",
+    "hours": {
+      "12:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "14:00": {
+        "description": "небольшие облака",
+        "temperature": "+13"
+      },
+      "16:00": {
+        "description": "дождь",
+        "temperature": "+11"
+      },
+      "18:00": {
+        "description": "солнечно",
+        "temperature": "+20"
+      },
+      "20:00": {
+        "description": "солнечно",
+        "temperature": "+11"
+      },
+      "22:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "24:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      }
+    }
+  },
+    "5.01.2019": {
+    "simple_description": "Солнечно, небо ясное",
+    "average_temperature": "+14",
+    "hours": {
+      "12:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "14:00": {
+        "description": "небольшие облака",
+        "temperature": "+13"
+      },
+      "16:00": {
+        "description": "дождь",
+        "temperature": "+11"
+      },
+      "18:00": {
+        "description": "солнечно",
+        "temperature": "+20"
+      },
+      "20:00": {
+        "description": "солнечно",
+        "temperature": "+11"
+      },
+      "22:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "24:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      }
+    }
+  },
+    "6.01.2019": {
+    "simple_description": "Солнечно, небо ясное",
+    "average_temperature": "+22",
+    "hours": {
+      "12:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "14:00": {
+        "description": "небольшие облака",
+        "temperature": "+13"
+      },
+      "16:00": {
+        "description": "дождь",
+        "temperature": "+11"
+      },
+      "18:00": {
+        "description": "солнечно",
+        "temperature": "+20"
+      },
+      "20:00": {
+        "description": "солнечно",
+        "temperature": "+11"
+      },
+      "22:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "24:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      }
+    }
+  },
+    "7.01.2019": {
+    "simple_description": "Солнечно, небо ясное",
+    "average_temperature": "+1",
+    "hours": {
+      "12:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "14:00": {
+        "description": "небольшие облака",
+        "temperature": "+13"
+      },
+      "16:00": {
+        "description": "дождь",
+        "temperature": "+11"
+      },
+      "18:00": {
+        "description": "солнечно",
+        "temperature": "+20"
+      },
+      "20:00": {
+        "description": "солнечно",
+        "temperature": "+11"
+      },
+      "22:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "24:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      }
+    }
+  },
+    "8.01.2019": {
+    "simple_description": "Солнечно, небо ясное",
+    "average_temperature": "+34",
+    "hours": {
+      "12:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "14:00": {
+        "description": "небольшие облака",
+        "temperature": "+13"
+      },
+      "16:00": {
+        "description": "дождь",
+        "temperature": "+11"
+      },
+      "18:00": {
+        "description": "солнечно",
+        "temperature": "+20"
+      },
+      "20:00": {
+        "description": "солнечно",
+        "temperature": "+11"
+      },
+      "22:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "24:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      }
+    }
+  },
+    "9.01.2019": {
+    "simple_description": "Солнечно, небо ясное",
+    "average_temperature": "+14",
+    "hours": {
+      "12:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "14:00": {
+        "description": "небольшие облака",
+        "temperature": "+13"
+      },
+      "16:00": {
+        "description": "дождь",
+        "temperature": "+11"
+      },
+      "18:00": {
+        "description": "солнечно",
+        "temperature": "+20"
+      },
+      "20:00": {
+        "description": "солнечно",
+        "temperature": "+11"
+      },
+      "22:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "24:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      }
+    }
+  },
+  "10.01.2019": {
+    "simple_description": "Солнечно, небо ясное",
+    "average_temperature": "+14",
+    "hours": {
+      "12:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "14:00": {
+        "description": "небольшие облака",
+        "temperature": "+13"
+      },
+      "16:00": {
+        "description": "дождь",
+        "temperature": "+11"
+      },
+      "18:00": {
+        "description": "солнечно",
+        "temperature": "+20"
+      },
+      "20:00": {
+        "description": "солнечно",
+        "temperature": "+11"
+      },
+      "22:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "24:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      }
+    }
+  },
+   "11.01.2019": {
+    "simple_description": "Солнечно, небо ясное",
+    "average_temperature": "+13",
+    "hours": {
+      "12:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "14:00": {
+        "description": "небольшие облака",
+        "temperature": "+13"
+      },
+      "16:00": {
+        "description": "дождь",
+        "temperature": "+11"
+      },
+      "18:00": {
+        "description": "солнечно",
+        "temperature": "+20"
+      },
+      "20:00": {
+        "description": "солнечно",
+        "temperature": "+11"
+      },
+      "22:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "24:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      }
+    }
+  },
+   "12.01.2019": {
+    "simple_description": "Солнечно, небо ясное",
+    "average_temperature": "+14",
+    "hours": {
+      "12:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "14:00": {
+        "description": "небольшие облака",
+        "temperature": "+13"
+      },
+      "16:00": {
+        "description": "дождь",
+        "temperature": "+11"
+      },
+      "18:00": {
+        "description": "солнечно",
+        "temperature": "+20"
+      },
+      "20:00": {
+        "description": "солнечно",
+        "temperature": "+11"
+      },
+      "22:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "24:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      }
+    }
+  },
+   "13.01.2019": {
+    "simple_description": "Солнечно, небо ясное",
+    "average_temperature": "+14",
+    "hours": {
+      "12:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "14:00": {
+        "description": "небольшие облака",
+        "temperature": "+13"
+      },
+      "16:00": {
+        "description": "дождь",
+        "temperature": "+11"
+      },
+      "18:00": {
+        "description": "солнечно",
+        "temperature": "+20"
+      },
+      "20:00": {
+        "description": "солнечно",
+        "temperature": "+11"
+      },
+      "22:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "24:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      }
+    }
+  },
+   "14.01.2019": {
+    "simple_description": "Солнечно, небо ясное",
+    "average_temperature": "+53",
+    "hours": {
+      "12:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "14:00": {
+        "description": "небольшие облака",
+        "temperature": "+13"
+      },
+      "16:00": {
+        "description": "дождь",
+        "temperature": "+11"
+      },
+      "18:00": {
+        "description": "солнечно",
+        "temperature": "+20"
+      },
+      "20:00": {
+        "description": "солнечно",
+        "temperature": "+11"
+      },
+      "22:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "24:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      }
+    }
+  },
+   "15.01.2019": {
+    "simple_description": "Солнечно, небо ясное",
+    "average_temperature": "+14",
+    "hours": {
+      "12:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "14:00": {
+        "description": "небольшие облака",
+        "temperature": "+13"
+      },
+      "16:00": {
+        "description": "дождь",
+        "temperature": "+11"
+      },
+      "18:00": {
+        "description": "солнечно",
+        "temperature": "+20"
+      },
+      "20:00": {
+        "description": "солнечно",
+        "temperature": "+11"
+      },
+      "22:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "24:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      }
+    }
+  },
+   "16.01.2019": {
+    "simple_description": "Солнечно, небо ясное",
+    "average_temperature": "+14",
+    "hours": {
+      "12:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "14:00": {
+        "description": "небольшие облака",
+        "temperature": "+13"
+      },
+      "16:00": {
+        "description": "дождь",
+        "temperature": "+11"
+      },
+      "18:00": {
+        "description": "солнечно",
+        "temperature": "+20"
+      },
+      "20:00": {
+        "description": "солнечно",
+        "temperature": "+11"
+      },
+      "22:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "24:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      }
+    }
+  },
+   "17.01.2019": {
+    "simple_description": "Солнечно, небо ясное",
+    "average_temperature": "+14",
+    "hours": {
+      "12:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "14:00": {
+        "description": "небольшие облака",
+        "temperature": "+13"
+      },
+      "16:00": {
+        "description": "дождь",
+        "temperature": "+11"
+      },
+      "18:00": {
+        "description": "солнечно",
+        "temperature": "+20"
+      },
+      "20:00": {
+        "description": "солнечно",
+        "temperature": "+11"
+      },
+      "22:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "24:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      }
+    }
+  }, "18.01.2019": {
+    "simple_description": "Солнечно, небо ясное",
+    "average_temperature": "+24",
+    "hours": {
+      "12:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "14:00": {
+        "description": "небольшие облака",
+        "temperature": "+13"
+      },
+      "16:00": {
+        "description": "дождь",
+        "temperature": "+11"
+      },
+      "18:00": {
+        "description": "солнечно",
+        "temperature": "+20"
+      },
+      "20:00": {
+        "description": "солнечно",
+        "temperature": "+11"
+      },
+      "22:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "24:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      }
+    }
+  }, "19.01.2019": {
+    "simple_description": "Солнечно, небо ясное",
+    "average_temperature": "+14",
+    "hours": {
+      "12:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "14:00": {
+        "description": "небольшие облака",
+        "temperature": "+13"
+      },
+      "16:00": {
+        "description": "дождь",
+        "temperature": "+11"
+      },
+      "18:00": {
+        "description": "солнечно",
+        "temperature": "+20"
+      },
+      "20:00": {
+        "description": "солнечно",
+        "temperature": "+11"
+      },
+      "22:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "24:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      }
+    }
+  },
+   "20.01.2019": {
+    "simple_description": "Солнечно, небо ясное",
+    "average_temperature": "+17",
+    "hours": {
+      "12:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "14:00": {
+        "description": "небольшие облака",
+        "temperature": "+13"
+      },
+      "16:00": {
+        "description": "дождь",
+        "temperature": "+11"
+      },
+      "18:00": {
+        "description": "солнечно",
+        "temperature": "+20"
+      },
+      "20:00": {
+        "description": "солнечно",
+        "temperature": "+11"
+      },
+      "22:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "24:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      }
+    }
+  },
+   "21.01.2019": {
+    "simple_description": "Солнечно, небо ясное",
+    "average_temperature": "+14",
+    "hours": {
+      "12:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "14:00": {
+        "description": "небольшие облака",
+        "temperature": "+13"
+      },
+      "16:00": {
+        "description": "дождь",
+        "temperature": "+11"
+      },
+      "18:00": {
+        "description": "солнечно",
+        "temperature": "+20"
+      },
+      "20:00": {
+        "description": "солнечно",
+        "temperature": "+11"
+      },
+      "22:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "24:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      }
+    }
+  }, "22.01.2019": {
+    "simple_description": "Солнечно, небо ясное",
+    "average_temperature": "+14",
+    "hours": {
+      "12:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "14:00": {
+        "description": "небольшие облака",
+        "temperature": "+13"
+      },
+      "16:00": {
+        "description": "дождь",
+        "temperature": "+11"
+      },
+      "18:00": {
+        "description": "солнечно",
+        "temperature": "+20"
+      },
+      "20:00": {
+        "description": "солнечно",
+        "temperature": "+11"
+      },
+      "22:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "24:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      }
+    }
+  }, "23.01.2019": {
+    "simple_description": "Солнечно, небо ясное",
+    "average_temperature": "+14",
+    "hours": {
+      "12:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "14:00": {
+        "description": "небольшие облака",
+        "temperature": "+13"
+      },
+      "16:00": {
+        "description": "дождь",
+        "temperature": "+11"
+      },
+      "18:00": {
+        "description": "солнечно",
+        "temperature": "+20"
+      },
+      "20:00": {
+        "description": "солнечно",
+        "temperature": "+11"
+      },
+      "22:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "24:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      }
+    }
+  }, "24.01.2019": {
+    "simple_description": "Солнечно, небо ясное",
+    "average_temperature": "+14",
+    "hours": {
+      "12:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "14:00": {
+        "description": "небольшие облака",
+        "temperature": "+13"
+      },
+      "16:00": {
+        "description": "дождь",
+        "temperature": "+11"
+      },
+      "18:00": {
+        "description": "солнечно",
+        "temperature": "+20"
+      },
+      "20:00": {
+        "description": "солнечно",
+        "temperature": "+11"
+      },
+      "22:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "24:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      }
+    }
+  },
+   "25.01.2019": {
+    "simple_description": "Солнечно, небо ясное",
+    "average_temperature": "+13",
+    "hours": {
+      "12:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "14:00": {
+        "description": "небольшие облака",
+        "temperature": "+13"
+      },
+      "16:00": {
+        "description": "дождь",
+        "temperature": "+11"
+      },
+      "18:00": {
+        "description": "солнечно",
+        "temperature": "+20"
+      },
+      "20:00": {
+        "description": "солнечно",
+        "temperature": "+11"
+      },
+      "22:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "24:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      }
+    }
+  },
+   "26.01.2019": {
+    "simple_description": "Солнечно, небо ясное",
+    "average_temperature": "+14",
+    "hours": {
+      "12:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "14:00": {
+        "description": "небольшие облака",
+        "temperature": "+13"
+      },
+      "16:00": {
+        "description": "дождь",
+        "temperature": "+11"
+      },
+      "18:00": {
+        "description": "солнечно",
+        "temperature": "+20"
+      },
+      "20:00": {
+        "description": "солнечно",
+        "temperature": "+11"
+      },
+      "22:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "24:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      }
+    }
+  },
+   "27.01.2019": {
+    "simple_description": "Солнечно, небо ясное",
+    "average_temperature": "+14",
+    "hours": {
+      "12:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "14:00": {
+        "description": "небольшие облака",
+        "temperature": "+13"
+      },
+      "16:00": {
+        "description": "дождь",
+        "temperature": "+11"
+      },
+      "18:00": {
+        "description": "солнечно",
+        "temperature": "+20"
+      },
+      "20:00": {
+        "description": "солнечно",
+        "temperature": "+11"
+      },
+      "22:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "24:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      }
+    }
+  },
+   "28.01.2019": {
+    "simple_description": "Солнечно, небо ясное",
+    "average_temperature": "+4",
+    "hours": {
+      "12:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "14:00": {
+        "description": "небольшие облака",
+        "temperature": "+13"
+      },
+      "16:00": {
+        "description": "дождь",
+        "temperature": "+11"
+      },
+      "18:00": {
+        "description": "солнечно",
+        "temperature": "+20"
+      },
+      "20:00": {
+        "description": "солнечно",
+        "temperature": "+11"
+      },
+      "22:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "24:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      }
+    }
+  },
+   "29.01.2019": {
+    "simple_description": "Солнечно, небо ясное",
+    "average_temperature": "+14",
+    "hours": {
+      "12:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "14:00": {
+        "description": "небольшие облака",
+        "temperature": "+13"
+      },
+      "16:00": {
+        "description": "дождь",
+        "temperature": "+11"
+      },
+      "18:00": {
+        "description": "солнечно",
+        "temperature": "+20"
+      },
+      "20:00": {
+        "description": "солнечно",
+        "temperature": "+11"
+      },
+      "22:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "24:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      }
+    }
+  },
+   "30.01.2019": {
+    "simple_description": "Солнечно, небо ясное",
+    "average_temperature": "+14",
+    "hours": {
+      "12:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "14:00": {
+        "description": "небольшие облака",
+        "temperature": "+13"
+      },
+      "16:00": {
+        "description": "дождь",
+        "temperature": "+11"
+      },
+      "18:00": {
+        "description": "солнечно",
+        "temperature": "+20"
+      },
+      "20:00": {
+        "description": "солнечно",
+        "temperature": "+11"
+      },
+      "22:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      },
+      "24:00": {
+        "description": "солнечно",
+        "temperature": "+15"
+      }
+    }
+  }
+}
